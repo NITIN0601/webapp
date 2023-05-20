@@ -1,0 +1,6 @@
+url: https://huggingface.co/mosaicml/mpt-7b-instruct
+branch: main
+download date: 2023-05-19 19:49:51
+sha256sum:
+    0693d4371bfecf4260145f0735708846d5e0ededeb91d535d8370962342cef4e pytorch_model-00001-of-00002.bin
+    13197cfe0fc856d6079651e997868c9253886059c4aaad3f42ea5699a65e4cde pytorch_model-00002-of-00002.bin
